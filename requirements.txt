@@ -1,0 +1,9 @@
+translators
+edge-tts
+faster-whisper
+soundfile
+sounddevice
+numpy
+mss
+pillow
+rapidocr-onnxruntime
